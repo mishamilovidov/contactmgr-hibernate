@@ -13,9 +13,8 @@
 * Intellij IDE
 
 #### LOCAL DEPLOYMENT ####
-* make sure port 8080 is open
 * refresh all gradle projects
-* ./gradlew bootRun
+* run Application.java
 
 ### Contribution guidelines ###
 
